@@ -1,0 +1,43 @@
+.library {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.library-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #5b895c;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.library-subtitle {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  line-height: 1.4;
+}
+
+.library-image-container {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.library-image {
+  width: 100%;
+  height: auto;
+  margin-left: 10px;
+}
+
+.library-description {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
