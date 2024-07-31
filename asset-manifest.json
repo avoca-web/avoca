@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/avoca/static/css/main.14e8977c.css",
-    "main.js": "/avoca/static/js/main.0fea84e8.js",
+    "main.js": "/avoca/static/js/main.27499c00.js",
     "static/js/453.84b43984.chunk.js": "/avoca/static/js/453.84b43984.chunk.js",
     "static/media/smart1.png": "/avoca/static/media/smart1.564e200d46a8dcb46e8b.png",
     "static/media/phone.png": "/avoca/static/media/phone.790e5f4b58cba93c0385.png",
@@ -15,11 +15,11 @@
     "static/media/logo.png": "/avoca/static/media/logo.44c9dccfa2e4c3f839a2.png",
     "index.html": "/avoca/index.html",
     "main.14e8977c.css.map": "/avoca/static/css/main.14e8977c.css.map",
-    "main.0fea84e8.js.map": "/avoca/static/js/main.0fea84e8.js.map",
+    "main.27499c00.js.map": "/avoca/static/js/main.27499c00.js.map",
     "453.84b43984.chunk.js.map": "/avoca/static/js/453.84b43984.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14e8977c.css",
-    "static/js/main.0fea84e8.js"
+    "static/js/main.27499c00.js"
   ]
 }
