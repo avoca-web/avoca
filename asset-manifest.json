@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avoca/static/css/main.05ffe171.css",
+    "main.js": "/avoca/static/js/main.1e400d6f.js",
+    "static/js/453.84b43984.chunk.js": "/avoca/static/js/453.84b43984.chunk.js",
+    "static/media/phone2.png": "/avoca/static/media/phone2.8ad89bda9895b313ac20.png",
+    "static/media/phone.png": "/avoca/static/media/phone.7bd4adc677b79da8bf14.png",
+    "static/media/avocado.png": "/avoca/static/media/avocado.a41c0922ed8d3e3b6144.png",
+    "static/media/smart1.png": "/avoca/static/media/smart1.926f471c54656f708cdb.png",
+    "static/media/state.png": "/avoca/static/media/state.88b14b768e91d012313c.png",
+    "static/media/smart.png": "/avoca/static/media/smart.96c22b947f18c5bb93e1.png",
+    "static/media/quest.png": "/avoca/static/media/quest.eee98f1113b70582719c.png",
+    "static/media/character.png": "/avoca/static/media/character.072f2e878318ee706ff5.png",
+    "static/media/phone1.png": "/avoca/static/media/phone1.e6da64ec2afce7ddd3b6.png",
+    "static/media/logo.png": "/avoca/static/media/logo.44c9dccfa2e4c3f839a2.png",
+    "index.html": "/avoca/index.html",
+    "main.05ffe171.css.map": "/avoca/static/css/main.05ffe171.css.map",
+    "main.1e400d6f.js.map": "/avoca/static/js/main.1e400d6f.js.map",
+    "453.84b43984.chunk.js.map": "/avoca/static/js/453.84b43984.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ffe171.css",
+    "static/js/main.1e400d6f.js"
+  ]
+}
